@@ -259,11 +259,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-**Lead Developer**: [Your Name]
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 [Email](mailto:your.email@example.com)
+**Lead Developer**: [Praveen N Swamy]
+- 🔗 [LinkedIn]([(https://www.linkedin.com/in/praveen-n-swamy/)]
+- 📧 [Email](mailto: praveen17.swamy@gmail.com)
 
-**ML Engineer**: [Team Member]
+**ML Engineer**: [Abhishek Kumar]
 - 🔗 [GitHub](https://github.com/teammember)
 
 ---
